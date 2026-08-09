@@ -13,7 +13,7 @@ Independently designed and implemented in a controlled lab environment to demons
 - Designed a controlled 50-user UK modern-workplace lab covering identity lifecycle, least privilege, endpoint support, incident management and escalation.
 - Developed PowerShell tools for identity simulation, endpoint health, inventory, disk, services, network diagnosis, SLA analysis, metrics and provenance verification.
 - Built ten fictional ITIL-aligned support scenarios with impact, urgency, priority, hypotheses, root cause, resolution, validation and linked knowledge articles.
-- Added Pester validation with 22 passing tests in the recorded local run; results are lab evidence, not production service metrics.
+- Added Pester validation with 23 passing tests in the recorded local run; results are lab evidence, not production service metrics.
 - Documented Entra ID, MFA, Conditional Access, Intune, BitLocker, Defender and Autopilot boundaries honestly where tenant execution was unavailable.
 
 ## LinkedIn Projects entry
@@ -33,4 +33,3 @@ Microsoft Entra ID; Microsoft 365; Microsoft Intune; Windows 11; endpoint manage
 ## Credibility-safe answer
 
 “This was independently designed and implemented in a controlled lab environment. I implemented the local data model, PowerShell tools, tests, support scenarios and documentation. I designed the Entra ID and Intune controls but have not labelled them as tenant implementations because this version of the lab did not have the required authorised tenant and licensing.”
-
