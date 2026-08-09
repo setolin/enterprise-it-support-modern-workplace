@@ -1,0 +1,12 @@
+﻿{
+    "GeneratedUtc":  "2026-08-09T10:34:07.7307981Z",
+    "Environment":  "Controlled local lab",
+    "FictionalSupportCases":  10,
+    "FictionalCasesWithinScenarioTarget":  10,
+    "ScenarioTargetRate":  100,
+    "PowerShellScripts":  10,
+    "PesterTestFiles":  6,
+    "MarkdownDocuments":  57,
+    "ReproducibleScenarioCount":  10,
+    "ClaimsBoundary":  "Scenario timing is assigned test input, not measured performance; no production or commercial outcome claimed"
+}
