@@ -2,6 +2,10 @@
 
 **Project owner and accountable implementer: Alex S Beirigo — London, United Kingdom**
 
+[LinkedIn](https://www.linkedin.com/in/alex-beirigo/) · [Authorship and verification](AUTHORSHIP.md) · [Senior audit](reports/senior-cold-audit.md) · [Interview walkthrough](interview-preparation/)
+
+**Target roles:** IT Support Engineer · Modern Workplace Engineer · Endpoint Support Engineer · Infrastructure Support Engineer · Microsoft 365 Support Engineer
+
 > **Ethical scope statement**
 >
 > Independently designed and implemented in a controlled lab environment to demonstrate enterprise identity administration, endpoint management, IT support operations, PowerShell automation and ITIL-aligned incident resolution.
@@ -19,6 +23,19 @@ The project is deliberately built so that a recruiter can distinguish between:
 - **Implemented locally** — executable scripts, tests, generated evidence and documented outcomes.
 - **Simulated** — controlled data and ticket scenarios used to demonstrate operational thinking.
 - **Designed/documented** — cloud features whose licensing or tenant access is not available in the lab.
+
+## Recruiter evidence snapshot
+
+| Evidence | Verified project result |
+|---|---:|
+| Reproducible support scenarios | 10 |
+| Linked knowledge-base articles | 10 |
+| Passing Pester tests | 23 |
+| Authorship-labelled PowerShell scripts | 10/10 |
+| Provenance manifest validation | 81/81 hashes valid |
+| Secret-pattern findings in the senior audit | 0 |
+
+The strongest evaluation path is: review the scope boundary, inspect one ticket and its linked knowledge article, run the Pester suite, then use the interview walkthrough to question Alex on design decisions and trade-offs.
 
 ## Navigation
 
@@ -43,7 +60,7 @@ The latest cold assessment is in [`reports/senior-cold-audit.md`](reports/senior
 
 ## Technology direction
 
-Microsoft Entra ID, Microsoft 365, Microsoft Intune, Windows 11, PowerShell, Pester, Mermaid and a local/free ticketing option. Paid licensing and external publication are out of scope unless explicitly authorised.
+Microsoft Entra ID, Microsoft 365, Microsoft Intune, Windows 11, PowerShell, Pester, Mermaid and a local/free ticketing option. The repository is publicly presented as an independently developed laboratory case study; paid tenant licensing and production deployment remain outside the implemented scope.
 
 ## Run locally
 
