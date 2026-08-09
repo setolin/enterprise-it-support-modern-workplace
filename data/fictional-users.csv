@@ -1,0 +1,12 @@
+UserId,DisplayName,Department,Role,EmploymentStatus,AccessProfile,ManagerUserId
+alex.jones,Alex Jones,Clinical Operations,Study Coordinator,Active,Standard-User,emma.wright
+priya.shah,Priya Shah,Data & Analytics,Data Analyst,Active,Data-Analyst,liam.evans
+liam.evans,Liam Evans,Data & Analytics,Data Manager,Active,Data-Manager,olivia.brown
+emma.wright,Emma Wright,Clinical Operations,Clinical Operations Manager,Active,Manager,olivia.brown
+olivia.brown,Olivia Brown,Executive,Operations Director,Active,Executive,olivia.brown
+noah.wilson,Noah Wilson,Technology,IT Support Analyst,Active,Service-Desk-Analyst,sophie.taylor
+sophie.taylor,Sophie Taylor,Technology,Systems Engineer,Active,Privileged-Engineer,olivia.brown
+grace.morgan,Grace Morgan,Finance & People,Finance Officer,Active,Finance-User,olivia.brown
+henry.davis,Henry Davis,Quality & Regulatory,Quality Manager,Active,Quality-Manager,olivia.brown
+mia.thomas,Mia Thomas,Commercial,Account Manager,Active,Commercial-User,olivia.brown
+
