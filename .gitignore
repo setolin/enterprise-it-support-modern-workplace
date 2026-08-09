@@ -1,0 +1,21 @@
+# Secrets and local state
+.env
+*.secret
+*.pfx
+*.pem
+*.key
+local-config.json
+
+# Generated and machine-specific output
+evidence/raw/
+reports/generated/
+*.log
+*.zip
+.venv/
+node_modules/
+
+# PowerShell/editor noise
+*.user
+*.suo
+.vscode/settings.json
+
